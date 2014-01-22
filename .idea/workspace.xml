@@ -35,7 +35,7 @@
       <file leaf-file-name="Script.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/JS/Script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="0" selection-start="42" selection-end="42" vertical-scroll-proportion="0.13562387" vertical-offset="0" max-vertical-offset="553">
+            <state line="18" column="20" selection-start="162" selection-end="162" vertical-scroll-proportion="0.48824593" vertical-offset="0" max-vertical-offset="553">
               <folding />
             </state>
           </provider>
@@ -180,10 +180,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="487" y="47" width="1563" height="957" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3298731" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3298731" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24967575" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -241,7 +241,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/JS/Script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="42" selection-end="42" vertical-scroll-proportion="0.13562387" vertical-offset="0" max-vertical-offset="553">
+        <state line="18" column="20" selection-start="162" selection-end="162" vertical-scroll-proportion="0.48824593" vertical-offset="0" max-vertical-offset="553">
           <folding />
         </state>
       </provider>
