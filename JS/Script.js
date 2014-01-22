@@ -1,17 +1,17 @@
 
-//conditional logic logical operations-js                    done on jan 21
-
-
-var budget =100;
-var iPhonePrice = 199.99;
-var wonLottery = true;
+//conditional logic Ternary Operations                  done on jan 22
 
 
 
-                                                        //if the price of the phone is less then our budget and paycheck is over 300
+var gpa = 49;
 
-if(iPhonePrice < budget || wonLottery===true){
-    console.log("We can buy the phone!");
-}else{
-    console.log("Sorry, not Phone for you!");
-}
+//if the gpa is over the min 2.0 scroe, the student can graduate
+
+/*/if(gpa > 2.0){
+    console.log("You can graduate");
+//}else{
+ ///   console.log("GPA is to low");
+}*/
+
+(gpa > 2.0) ? console.log("You can graduate!") : console.log("GPA too low");                    //Ternary operate
+
