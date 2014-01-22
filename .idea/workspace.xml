@@ -23,19 +23,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="9" selection-start="105" selection-end="105" vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="330">
+            <state line="10" column="9" selection-start="105" selection-end="105" vertical-scroll-proportion="0.28355387" vertical-offset="0" max-vertical-offset="529">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Script.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Script.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JS/Script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="20" selection-start="162" selection-end="162" vertical-scroll-proportion="0.48824593" vertical-offset="0" max-vertical-offset="553">
+            <state line="16" column="20" selection-start="153" selection-end="153" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345">
               <folding />
             </state>
           </provider>
@@ -232,16 +232,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Index.html">
+    <entry file="file://$PROJECT_DIR$/JS/Script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="9" selection-start="105" selection-end="105" vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="330">
+        <state line="16" column="20" selection-start="153" selection-end="153" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JS/Script.js">
+    <entry file="file://$PROJECT_DIR$/Index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="20" selection-start="162" selection-end="162" vertical-scroll-proportion="0.48824593" vertical-offset="0" max-vertical-offset="553">
+        <state line="10" column="9" selection-start="105" selection-end="105" vertical-scroll-proportion="0.28355387" vertical-offset="0" max-vertical-offset="529">
           <folding />
         </state>
       </provider>
