@@ -1,18 +1,20 @@
 
-
-/**
- * Created by Suika on 1/21/14.
- */
+//conditional logic   done on jan 21
 
 
 
+ var oldEnough= true;
 
-if(sunny){
-    goToTheBeach();
+//if child is old enough, print to the console
 
-    if(warmWater){
-        wearNewSuit();
-    }
-}else{
-    goToTheMovies();
+if(oldEnough){
+                             //code preformed if condition is true
+    console.log("You can ride the coaster!");
+
+
 }
+
+
+console.log("What comes after?");
+
+
