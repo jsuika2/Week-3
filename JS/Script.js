@@ -1,11 +1,22 @@
+-//conditional logic   done on jan 21
+    +//conditional logic if else                    done on jan 21
 
-//conditional logic Ternary Operations                  done on jan 22
 
+        - var kidHeight =47;
++ var kidHeight =52;
+var midHeight =48;
++ var wParentHeight =45;                                                                     //height of the kid and parent
+//if child is old enough, print to the console
 
-var age =6;
-var book;
+if(kidHeight > midHeight){                                                                                //If the kid is over 48 inches in height
+    @@ -12,8 +13,11 @@ if(kidHeight > midHeight){
 
-//if the child is under 10; they will get Green Eggs an Ham, otherwise they get the Time machine
+    }
 
-book = (age < 10) ? "Green Eggs and Ham"  : "The Time Machine";           //ternary operation of the formula Which Book to Read
-console.log(book);
+    -else{
+        +else if(kidHeight > wParentHeight){
+            +    console.log("You can ride but only with a parent");
+            +}else{
+            console.log("Sorry kid you got some growing to do");
+            +
+        }
