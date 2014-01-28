@@ -23,10 +23,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file leaf-file-name="Index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="13" selection-start="79" selection-end="79" vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="330">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="Script.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/JS/Script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="0" selection-start="41" selection-end="41" vertical-scroll-proportion="0.12820514" vertical-offset="0" max-vertical-offset="540">
+            <state line="5" column="2" selection-start="44" selection-end="44" vertical-scroll-proportion="0.16025642" vertical-offset="0" max-vertical-offset="660">
               <folding />
             </state>
           </provider>
@@ -54,8 +63,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="357" />
-    <option name="y" value="189" />
+    <option name="x" value="853" />
+    <option name="y" value="177" />
     <option name="width" value="1563" />
     <option name="height" value="790" />
   </component>
@@ -213,7 +222,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="357" y="189" width="1563" height="790" extended-state="0" />
+    <frame x="853" y="177" width="1563" height="790" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -497,13 +506,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="7" selection-start="117" selection-end="117" vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="330">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Conditionals/Conditionals_Industry/Conditionals_Industry.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="7" selection-start="123" selection-end="123" vertical-scroll-proportion="0.32407406" vertical-offset="0" max-vertical-offset="648">
@@ -532,9 +534,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="13" selection-start="79" selection-end="79" vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="330">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/JS/Script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="41" selection-end="41" vertical-scroll-proportion="0.12820514" vertical-offset="0" max-vertical-offset="540">
+        <state line="5" column="2" selection-start="44" selection-end="44" vertical-scroll-proportion="0.16025642" vertical-offset="0" max-vertical-offset="660">
           <folding />
         </state>
       </provider>
