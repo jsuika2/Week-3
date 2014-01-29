@@ -1,30 +1,20 @@
-//notes from ScreenCast   jan 28 2014
-// Function Execution
+//notes from ScreenCast   jan 29 2014
+// Parameters and Arguments
 
-//prompt("hello");
+//calArea(30,20);
+
+//function calArea(w,h){    //w=30 h=20
+  //  var area= w * h;
+  //  console.log(area);
 
 
-function outptMsg(){
-    console.log("Hello World");
+function dogYears(){
+    var age =4;
+    var dogYears = age *7
+    console.log("Sparky is " + dogYears + " years old.")
 }
 
-function calcArea(){
-    var width =20;                            //fuction difination
-    var height=30;
-    var area =width*height;
-    console.log(area);
-}
-
-calcArea();   //invocation of the fuction    or CALL, FUNCTION CALL
-calcArea()
-calcArea()
-
-
-
-
-
-
-
+dogYears();       // Calling it
 
 
 
